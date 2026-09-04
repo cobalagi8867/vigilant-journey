@@ -1,0 +1,37 @@
+:root {
+    /* =====================================================
+       ELECTRIC YELLOW / LIGHTNING GOLD THEME
+       ===================================================== */
+
+    --jgl-navy: #0b0a06;
+    --jgl-navy-2: #111006;
+    --jgl-navy-3: #18160a;
+
+    --jgl-panel: #141207;
+    --jgl-panel-2: #19170b;
+
+    /* Primary Electric Yellow */
+    --jgl-cyan: #fff000;
+    --jgl-cyan-2: #ffc400;
+
+    /* Gold */
+    --jgl-gold: #ffd000;
+    --jgl-gold-2: #ff9d00;
+
+    --jgl-white: #ffffff;
+    --jgl-muted: #a9a69a;
+
+    /* Lines */
+    --jgl-line: rgba(255, 230, 0, 0.28);
+
+    /* Soft Glow */
+    --jgl-soft-cyan: rgba(255, 230, 0, 0.11);
+
+    /* RGB */
+    --jgl-accent-rgb: 255, 230, 0;
+    --jgl-secondary-rgb: 255, 174, 0;
+
+    /* Middle Colors */
+    --jgl-mid: #211b06;
+    --jgl-mid-2: #17130a;
+}
